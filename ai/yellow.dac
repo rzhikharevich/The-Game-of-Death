@@ -1,0 +1,29 @@
+eat 50
+je 25
+eat 10
+turn r
+go 5
+eat 5
+je 25
+clon
+turn r
+go 5
+eat 5
+je 25
+clon
+turn r
+go 5
+eat 5
+je 25
+turn r
+clon
+jl 50 0
+turn r
+go 5
+eat 5
+je 25
+j 0
+str
+str 20
+eat 10
+j 2

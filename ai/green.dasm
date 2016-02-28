@@ -1,0 +1,25 @@
+eat
+jg 20 10
+je 4
+j 0
+jg 10 8
+turn r
+go
+j 0
+str
+j 0
+turn r
+go r
+eat
+je 17
+jg 20 22
+j 12
+jg 10 20
+turn r
+go
+j 12
+str
+j 12
+clon
+right
+j 12
